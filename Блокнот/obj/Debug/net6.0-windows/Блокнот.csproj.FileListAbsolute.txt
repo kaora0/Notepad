@@ -1,0 +1,43 @@
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.exe
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.deps.json
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.runtimeconfig.json
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.dll
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.pdb
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот_MarkupCompile.cache
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот_MarkupCompile.lref
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.g.resources
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.dll
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\refint\Блокнот.dll
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.pdb
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\ref\Блокнот.dll
+C:\Users\ASUS\Desktop\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.ResolveComReference.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.exe
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.deps.json
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.runtimeconfig.json
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.pdb
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.ResolveComReference.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот_MarkupCompile.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот_MarkupCompile.lref
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.g.resources
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfoInputs.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfo.cs
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\refint\Блокнот.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.pdb
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.genruntimeconfig.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Блокнот\Блокнот\obj\Debug\net6.0-windows\ref\Блокнот.dll
